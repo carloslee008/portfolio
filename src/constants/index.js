@@ -1,5 +1,4 @@
 import {
-
     javascript,
     html,
     css,
@@ -64,19 +63,6 @@ import {
   ];
 
   
-  const testimonials = [
-    {
-      testimonial:
-        "I'm a developer, so I know how to create your website to run across devices using the latest technologies available.",
-      title: "Develop",
-    },
-    {
-      testimonial:
-        "I like to keep it simple. My goals are to focus on typography, content and conveying the message that you want to send.",
-      title: "Design"
-    },
-  ];
-  
   const projects = [
     {
       name: "Commute Calculator",
@@ -97,7 +83,7 @@ import {
         },
       ],
       image: commutecalculator,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://carloslee008.github.io/commute-calculator/",
     },
     {
       name: "Keeper",
@@ -118,7 +104,7 @@ import {
         },
       ],
       image: keepersite,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://rococo-druid-fd9fd0.netlify.app/",
     },
     {
       name: "TinDog",
@@ -139,8 +125,8 @@ import {
         },
       ],
       image: tindog,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://carloslee008.github.io/tindog/",
     },
   ];
   
-  export { services, testimonials, projects };
+  export { services, projects };
