@@ -88,7 +88,7 @@ import {
     {
       name: "Keeper",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "An app where you can save and delete notes. Used React practices such as hooks and refs to save and pass data onto a backend (MongoDB atlas).",
       tags: [
         {
           name: "react",
