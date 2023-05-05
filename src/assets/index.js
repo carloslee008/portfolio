@@ -40,5 +40,5 @@ export {
   commutecalculator,
   keepersite,
   tindog,
-  resume
+  resume,
 };

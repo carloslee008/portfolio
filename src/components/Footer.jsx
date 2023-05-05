@@ -1,5 +1,6 @@
 import React from 'react';
 
+import { resume } from '../assets';
 
 const Footer = () => {
     return (
@@ -15,7 +16,7 @@ const Footer = () => {
                 </a>
                 <a
                     className="m-1 h-9 w-10"
-                    href="src/assets/resume.pdf"
+                    href={resume}
                 >
                     Resume
                 </a>
